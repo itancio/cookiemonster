@@ -1,6 +1,8 @@
 # Cookie Monster
 This is a game development project by Camila Picanco Mesquita and Irvin Tancioco for UC Berkeley Data Structure
 
+[demo video](https://www.youtube.com/watch?v=ES2n5Quh2KE)
+
 ## Project Description
 This is a cookie monster game designed to teach children about healthy and unhealthy food consumption. Cookie monster collects food to gain calories and extend its life. The goal is to consume all the food or find the golden cookie without running out of lives or calories.
 
